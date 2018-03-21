@@ -1,0 +1,13 @@
+{
+    "name": "leonardo/phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "mpdf/mpdf": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Leonardo",
+            "email": "leoroberto.alves@hotmail.com"
+        }
+    ]
+}
