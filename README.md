@@ -1,4 +1,4 @@
-phpmailer
+<h1>phpmailer</h1>
 
 Para esse projeto eu utilizei o Composer para baixar as bibliotecas do PHPMailer e o Bootstrap 4.
 
